@@ -22,7 +22,7 @@
 | # | Project | Key Concepts | Status |
 |---|---------|-------------|--------|
 | 1 | [To-Do List Manager](./Task-1-Todo-List/) | Lists, Dictionaries, JSON, Tkinter GUI | ✅ Done |
-| 2 | Coming soon... | — | 🔒 Locked |
+| 2 | [Expense Tracker](./Task-2-Expense-Tracker/) | Accumulators, Type Conversion, try/except, Tkinter GUI, JSON | ✅ Done |
 
 ---
 
