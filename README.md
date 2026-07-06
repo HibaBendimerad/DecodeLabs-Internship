@@ -23,6 +23,7 @@
 |---|---------|-------------|--------|
 | 1 | [To-Do List Manager](./Task-1-Todo-List/) | Lists, Dictionaries, JSON, Tkinter GUI | ✅ Done |
 | 2 | [Expense Tracker](./Task-2-Expense-Tracker/) | Accumulators, Type Conversion, try/except, Tkinter GUI, JSON | ✅ Done |
+| 3 | [Password Generator](./Task-3-Password-Generator/) | secrets, string, .join(), Entropy E=L×log₂(R), Tkinter GUI | ✅ Done |
 
 ---
 
